@@ -1,3 +1,14 @@
+/*
+  File:		Main.java
+  Author:	SER316 staff and modified by Nicholas Okerberg
+  Date:		4/08/2018
+  
+  Description:	This method is used to run the program from the command line. If no
+  arguments are used, it will do a selection sort on 20 integers in random order. If
+  any argument is used, then the program will ask for an initial string of numbers
+  to sort and which type of sort to use. The program then outputs the sorted string. 
+  
+*/
 package main.java;
 
 import java.io.BufferedReader;
